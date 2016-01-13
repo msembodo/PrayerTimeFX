@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JPrayerTime">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JPrayerTime/out/artifacts/JPrayerTime_jar/JPrayerTime.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
